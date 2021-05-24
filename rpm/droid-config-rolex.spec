@@ -7,7 +7,7 @@
 %define device_pretty Redmi 4A
 
 %define community_adaptation 1
-%define pixel_ratio 1.0
+%define pixel_ratio 1.5
 
 %include droid-configs-device/droid-configs.inc
 %include patterns/patterns-sailfish-device-adaptation-rolex.inc
