@@ -1,0 +1,6 @@
+Description: Pattern with packages for rolex configurations
+Name: jolla-configuration-rolex
+Requires:
+- patterns-sailfish-device-configuration-rolex
+
+Summary: Jolla Configuration rolex
